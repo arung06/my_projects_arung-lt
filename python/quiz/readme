@@ -1,0 +1,4 @@
+Usage:
+1. Enter name of all participants in participants.txt
+2. python quizAllotTeams.py
+
